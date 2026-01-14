@@ -1,34 +1,129 @@
-# Privacy Policy
+# Privacy Policy  
+**Choose Like Buddha**
 
-Choose Like Buddha respects your privacy.
+_Last updated: 14.01.2026_
+
+Choose Like Buddha respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the app.
+
+---
 
 ## Information We Collect
-We collect only the information necessary to provide app functionality.
 
-- Account information such as email address or Apple ID when you sign in
-- Your quiz answers and progress statistics
+### Account Information
+If you choose to create an account or sign in, we may collect:
+- Name (as provided by you)
+- Email address (for email sign-in)
+- Apple ID identifier (for Sign in with Apple)
 
-## How We Use Information
-The collected information is used to:
-- Save your progress across devices
-- Display progress charts
-- Improve app functionality
+This information is used only to identify your account and save your progress.
+
+---
+
+### App Usage Data
+We collect limited app usage data to provide core features, including:
+- Quiz answers
+- Daily progress and statistics
+- Subscription status
+
+This data is used only to display your personal progress and app functionality.
+
+---
+
+### Food and Body Awareness Data
+If you use the food and body awareness feature, the app may store:
+- Food entries you create
+- Body or mood notes associated with foods
+
+This data is entered voluntarily and stored to support app features.
+
+---
+
+## How We Use Your Information
+
+We use your information to:
+- Create and manage your account
+- Save and sync your progress across devices
+- Display personal progress charts
+- Provide access to premium features
+- Improve app stability and user experience
+
+We do **not** use your data for advertising purposes.
+
+---
 
 ## Data Sharing
-We do not sell, trade, or share your personal data with third parties.
+
+We do **not** sell, rent, or share your personal information with third parties for marketing or advertising.
+
+Information may be shared only when necessary to:
+- Authenticate users (Sign in with Apple)
+- Process subscriptions through Apple In-App Purchases
+- Comply with legal obligations
+
+---
 
 ## Tracking
-Choose Like Buddha does not track users across apps or websites.
 
-## Data Security
-We take reasonable measures to protect your data.
+Choose Like Buddha does **not** track users across apps or websites owned by other companies.  
+We do **not** use advertising identifiers.
 
-## Your Choices
-You may request deletion of your account and associated data at any time.
+---
 
-## Changes
-This privacy policy may be updated from time to time.
+## Data Storage and Security
 
-## Contact
-If you have questions about this policy, contact us at:
-tigran.contact@gmail.com
+We take reasonable measures to protect your information from unauthorized access, loss, or misuse.  
+However, no method of electronic storage is completely secure.
+
+---
+
+## Your Rights and Choices
+
+- You may use the app without creating an account, with limited features.
+- You may update or change your name in the app settings.
+- You may cancel subscriptions at any time through your Apple ID settings.
+
+---
+
+## Account Deletion
+
+You can delete your account **directly from the app settings**.
+
+When you delete your account:
+- Your account information is permanently removed
+- Your saved progress and personal data are deleted
+- This action cannot be undone
+
+Some information may be retained temporarily if required by law or for legitimate business purposes.
+
+---
+
+## Children’s Privacy
+
+Choose Like Buddha is not intended for children under the age of 13.  
+We do not knowingly collect personal information from children.
+
+---
+
+## Third-Party Services
+
+The app uses Apple services for:
+- Sign in with Apple
+- In-App Purchases and subscriptions
+
+These services are governed by Apple’s own privacy policies.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.  
+Any changes will be posted on this page.
+
+---
+
+## Contact Us
+
+If you have questions about this Privacy Policy or your data, contact us at:
+
+**Email:** support@yourdomain.com  
+**App Name:** Choose Like Buddha
