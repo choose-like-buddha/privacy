@@ -1,7 +1,7 @@
 # Privacy Policy  
 **Choose Like Buddha**
 
-_Last updated: 14.01.2026_
+_Last updated: 22.01.2026_
 
 Choose Like Buddha respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the app.
 
@@ -67,6 +67,8 @@ Information may be shared only when necessary to:
 Choose Like Buddha does **not** track users across apps or websites owned by other companies.  
 We do **not** use advertising identifiers.
 
+We collect anonymized usage analytics (such as feature usage and app events) through PostHog to improve the app experience. This data does not include personal information and is not used for advertising purposes.
+
 ---
 
 ## Data Storage and Security
@@ -106,11 +108,13 @@ We do not knowingly collect personal information from children.
 
 ## Third-Party Services
 
-The app uses Apple services for:
-- Sign in with Apple
-- In-App Purchases and subscriptions
+The app uses the following third-party services:
 
-These services are governed by Apple’s own privacy policies.
+- **Apple** — Sign in with Apple, In-App Purchases and subscriptions
+- **Supabase** — Secure cloud database for storing your account and progress data
+- **PostHog** — Privacy-focused analytics to understand app usage and improve features (hosted in EU)
+
+These services are governed by their respective privacy policies. We do not share personal information with these services beyond what is necessary for core functionality.
 
 ---
 
