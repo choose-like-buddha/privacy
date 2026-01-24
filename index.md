@@ -1,7 +1,7 @@
 # Privacy Policy  
 **Choose Like Buddha**
 
-_Last updated: 22.01.2026_
+_Last updated: 24.01.2026_
 
 Choose Like Buddha respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the app.
 
@@ -35,6 +35,17 @@ If you use the food and body awareness feature, the app may store:
 - Body or mood notes associated with foods
 
 This data is entered voluntarily and stored to support app features.
+
+---
+
+## Notifications
+
+The app may send local notifications to remind you about mindful practices. These notifications:
+- Are scheduled locally on your device
+- Do not collect or transmit any data
+- Can be enabled or disabled in app settings
+
+Notification preferences are stored only on your device and are not synced to our servers.
 
 ---
 
